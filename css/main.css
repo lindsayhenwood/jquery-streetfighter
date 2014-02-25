@@ -57,3 +57,7 @@ div.ryu {
   left: -200px;
   float: left;
 }
+
+.ryu-cool {
+	background-image: url('../images/ryu-cool.gif');
+}
