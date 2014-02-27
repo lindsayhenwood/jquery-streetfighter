@@ -19,7 +19,7 @@ div.ryu {
   height: 494px;
 }
 
-.ryu-ready, .ryu-throwing {
+.ryu-ready, .ryu-throwing, .ryu-cool {
   display: none;
 } 
 
@@ -60,4 +60,12 @@ div.ryu {
 
 .ryu-cool {
 	background-image: url('../images/ryu-cool.gif');
+}
+
+div.text {
+	font: Helvetica;
+	float: right;
+	font-size: 16kpx;
+	padding-right: 30px;
+	padding-top: 350px; 
 }
